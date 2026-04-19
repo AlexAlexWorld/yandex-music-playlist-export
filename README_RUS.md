@@ -47,7 +47,7 @@
 
 4. Вставьте скрипт
 
-   - Откройте файл [ym-track-collector-plus.js](./ym-track-collector-plus.js) в этом репозитории.
+   - Откройте файл yandex-music-playlist-export.js в этом репозитории.
    - Скопируйте его содержимое целиком.
    - Вставьте в консоль браузера и нажмите Enter.
 
