@@ -119,3 +119,5 @@ Inspired by the original project idaniil24/ym-track-collector, but heavily adapt
 ## Disclaimer
 This is an unofficial tool.  
 Use it at your own risk, and only for your own personal playlists.
+
+Licensed under the MIT License — see LICENSE file for details.
