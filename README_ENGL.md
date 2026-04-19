@@ -47,7 +47,7 @@ Main use case: export your "Liked" playlist (or any other playlist) into a porta
 
 4. Paste the script
 
-   - Open [ym-track-collector-plus.js](./ym-track-collector-plus.js) from this repo.
+   - Open yandex-music-playlist-export.js from this repo.
    - Copy its entire content.
    - Paste it into the console and press Enter.
 
